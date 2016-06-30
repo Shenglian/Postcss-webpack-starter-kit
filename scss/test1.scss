@@ -17,7 +17,11 @@ body {
     span {
       flex: 1;
       height: 100px;
-      display: block;
+      background-color: #666;
+      border-radius: 30px;
+      line-height: 100px;
+      text-align: center;
+      color: white;
     }
   }
 }
