@@ -18,8 +18,3 @@ npm install
 ```bash
 npm start
 ```
-
-第四步
-```bash
-打开浏览器  http://localhost:8080/
-```
